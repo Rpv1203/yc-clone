@@ -40,7 +40,7 @@
                             <div class="flex items-center text-sm text-gray-500 mb-4">
                                 <span class="font-semibold text-yc-green-600">{{ $post->author }}</span>
                                 <span class="mx-2">•</span>
-                                <span>{{ $post->published_at->format('M d, Y') }}</span>
+                                <span>{{ $post->published_at ? $post->published_at->format('M d, Y') : 'Not published' }}</span>
                             </div>
                             
                             <!-- Read More -->
