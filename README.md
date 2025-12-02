@@ -288,6 +288,9 @@ Full CRUD interface for managing startup companies.
 ### Blog Post Management
 Create and edit blog posts with publish/draft status.
 
+## 🎥 Demo Video
+
+Watch the live demonstration: https://drive.google.com/file/d/1NuqUC6mUFp-0bphf8xArMgLb-QEUX400/view?usp=sharing
 ## 🧪 Testing
 
 ### Manual Testing Checklist
@@ -371,17 +374,13 @@ Always use the custom green classes:
 - `hover:bg-yc-green-600` for hover states
 - `border-yc-green-500` for borders
 
-## 🤝 Contributing
-
-This is a learning project. Feel free to fork and experiment!
-
 ## 📄 License
 
 This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**Vijay** (Rpv1203)
+**Priyavarshini** (Rpv1203)
 - GitHub: [@Rpv1203](https://github.com/Rpv1203)
 - Project: [yc-clone](https://github.com/Rpv1203/yc-clone)
 
